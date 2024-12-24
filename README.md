@@ -26,6 +26,23 @@ The following **required** functionality is completed:
   
 ## App Brainstorming (Step 4)
 
+BeReal
+- Posting multiple times per day if you take a BeReal on time
+- BeReal Wrapped
+- Linking Spotify
+
+Youtube
+- Being able to locate liked videos
+- YouTube shorts that pop up from time to time
+
+Instagram
+- Close friends
+- Creating multiple accounts
+
+Gmail
+- Easy access and navigation between different account
+- Having key features found on desktop version
+
 ## Notes
 
 Describe any challenges encountered while building the app.
