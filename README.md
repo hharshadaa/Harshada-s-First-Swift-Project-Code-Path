@@ -45,11 +45,11 @@ Gmail
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge when creating this app was dragging and dropping the button to create a function. I was not able to navigate it properly but I finally did it. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Harshada Palanikkumar]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
