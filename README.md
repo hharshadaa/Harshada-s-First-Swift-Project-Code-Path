@@ -41,7 +41,9 @@ Instagram
 
 Gmail
 - Easy access and navigation between different account
-- Having key features found on desktop version
+- Having key features found on the desktop version
+
+An app I would want to use can easily change the themes and UI of different apps. For example, if I want my Spotify to be themed pink, this app would be able to do it. I think implementing this might take a lot of time because you would have to build it app by app. To do this, I would target popular applications that might need theme changes. 
 
 ## Notes
 
